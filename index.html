@@ -114,8 +114,8 @@
     </footer>
     <script>
       var num = 0; // Declare 'num' as a variable
-      var y = 12;
-      var x = Math.floor(Math.random() * y); // Generate a random number between 0 and 10
+      var y = 14;
+      var x = Math.floor(Math.random() * y); // Generate a random number between 0 and y-1
     if (x == 1) {
       document.getElementById("p1").innerHTML = "Installing Ubuntu...";
     } else if (x == 2) {
@@ -137,7 +137,11 @@
     } else if (x == 10) {
       document.getElementById("p1").innerHTML = "That's it, I'm replacing your motherboard with SunChips™";
     } else if (x == 11) {
-      document.getElementById("p1").innerHTML = "There was a 1 in" + (y - 1) + "chance of you getting this splash text!";
+      document.getElementById("p1").innerHTML = "There was a 1 in " + (y - 1) + " chance of you getting this splash text!";
+    } else if (x == 12) {
+      document.getElementById("p1").innerHTML = "Good morning USA!";
+    } else if (x == 13) {
+      document.getElementById("p1").innerHTML = "Pretty poggers ngl";
     }
 </script>
 
