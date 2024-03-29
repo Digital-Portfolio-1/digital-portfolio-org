@@ -1,5 +1,5 @@
 var num = 0; // Declare 'num' as a variable
-var y = 14;
+var y = 16;
 var x = Math.floor(Math.random() * y); // Generate a random number between 0 and y-1
 if (x == 1) {
     document.getElementById("p1").innerHTML = "Installing Ubuntu...";
@@ -29,6 +29,6 @@ if (x == 1) {
     document.getElementById("p1").innerHTML = "Pretty poggers ngl";
 } else if (x == 14) {
     document.getElementById("p1").innerHTML = "Powered by GitHub Pages!";
-} else if (x == 13) {
+} else if (x == 15) {
     document.getElementById("p1").innerHTML = "Now with HTML5!";
 }
