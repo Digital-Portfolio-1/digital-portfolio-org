@@ -27,6 +27,8 @@ if (x == 1) {
     document.getElementById("p1").innerHTML = "Good morning USA!";
 } else if (x == 13) {
     document.getElementById("p1").innerHTML = "Pretty poggers ngl";
-} else {
-    document.getElementById("p1").innerHTML = "This isn't supposed to be here haha " + y-1;
+} else if (x == 14) {
+    document.getElementById("p1").innerHTML = "Powered by GitHub Pages!";
+} else if (x == 13) {
+    document.getElementById("p1").innerHTML = "Now with HTML5!";
 }
