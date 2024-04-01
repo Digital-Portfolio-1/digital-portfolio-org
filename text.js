@@ -1,5 +1,4 @@
-var num = 0; // Declare 'num' as a variable
-var y = 16;
+var y = 25;
 var x = Math.floor(Math.random() * y); // Generate a random number between 0 and y-1
 if (x == 1) {
     document.getElementById("p1").innerHTML = "Installing Ubuntu...";
@@ -31,4 +30,21 @@ if (x == 1) {
     document.getElementById("p1").innerHTML = "Powered by GitHub Pages!";
 } else if (x == 15) {
     document.getElementById("p1").innerHTML = "Now with HTML5!";
-}
+} else if (x == 16) {
+    document.getElementById("p1").innerHTML = "There's a random error that keeps occuring but i have no clue what's going wrong with it haha";
+} else if (x == 17) {
+    document.getElementById("p1").innerHTML = "Turbo(RoadToJail)Tax: Committing tax fraud, made easy :)";
+} else if (x == 18) {
+    document.getElementById("p1").innerHTML = "perhaps it was a bad idea to make fun of Intuit in the last message...";
+} else if (x == 19) {
+    document.getElementById("p1").innerHTML = "Now with new sleep paralysis demons!";
+} else if (x == 20) {
+    document.getElementById("p1").innerHTML = "Protip: Stack Java methods horizantally to save space!";
+} else if (x == 21) {
+    document.getElementById("p1").innerHTML = "Protip: Sort months alphabetically!";
+} else if (x == 22) {
+    document.getElementById("p1").innerHTML = "Protip: Use git-blame-someone-else if you mess up a script!";
+} else if (x == 23) {
+    document.getElementById("p1").innerHTML = "Wanted in every country, and then some!";
+} else if (x == 24) {
+    document.getElementById("p1").innerHTML = "By visiting this website, you agree to our terms of service. Of course, you can't see the ToS so we may be selling your soul to Bill Cypher";
