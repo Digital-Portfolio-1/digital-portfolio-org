@@ -44,9 +44,9 @@ if (x == 1) {
     document.getElementById("p1").innerHTML = "Protip: Sort months alphabetically!";
 } else if (x == 22) {
     document.getElementById("p1").innerHTML = "Protip: Use git-blame-someone-else if you mess up a script!";
+} else if (x == 23) {
+    document.getElementById("p1").innerHTML = "Wanted in every country, and then some!";
 }
-// } else if (x == 23) {
-//     document.getElementById("p1").innerHTML = "Wanted in every country, and then some!";
 // } else if (x == 24) {
 //     document.getElementById("p1").innerHTML = "By visiting this website, you agree to our terms of service. Of course, you can't see the ToS so we may be selling your soul to Bill Cypher";
 // }
