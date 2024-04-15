@@ -448,5 +448,8 @@
             border-radius: 10px
         }
 		#selected {
-			color: red;
+			background-color: lightblue;
+  			color: red;
+  			padding: 40px;
+  			text-align: center;
 		}
