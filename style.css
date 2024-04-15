@@ -447,9 +447,3 @@
         img{
             border-radius: 10px
         }
-		#selected {
-			background-color: lightblue;
-  			color: red;
-  			padding: 40px;
-  			text-align: center;
-		}
