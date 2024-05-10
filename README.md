@@ -5,9 +5,8 @@ how 2 commit tax fraud
 step 1: avoid tax
 
 step 4: done
-school project haha
 
-So funny story, after allegedlly hosting a game site (cough cough asquidboi.github.io) My entire domain for GithubPages is, you guessed it, b l o c k e d
+So funny story, after allegedlly hosting a game site (cough cough asquidboi.github.io) My entire domain for Github Pages is, you guessed it, b l o c k e d
 
 i have 3 options:
 
